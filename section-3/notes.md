@@ -10,3 +10,7 @@ Component-Driven User Interfaces
 - Reusable, composable, and isolated
 - DRY (Don't Repeat Yourself)
 
+### Props
+- Props are immutable
+- Props are passed from parent to child
+- Props are passed as attributes
